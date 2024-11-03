@@ -1,2 +1,2 @@
 # Html_only_webpage
-An example using only HTML to build a webpage
+Using only HTML we have a Navigation bar, Main content area, an Aside and a Footer. 
